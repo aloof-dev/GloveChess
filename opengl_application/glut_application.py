@@ -28,7 +28,6 @@ from register_functions import *
 
 
 #TODO: pushare risorse nuove
-
 # Global variables
 texture_background = None
 
