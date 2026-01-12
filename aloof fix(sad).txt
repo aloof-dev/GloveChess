@@ -1,2 +1,4 @@
-THIS FINALLY WORKS WITH TEH LATEST PYTHON 
+THIS FINALLY WORKS WITH THE LATEST PYTHON 3.14
 STILL UNSATABLE ASF EVEN AFTER MAKING 30 CHANGES
+BLAME OpenGL for it , had to add many functions to compensate for the c++ asuumtion in previos .py version 
+IF ANY MORE ERROR OCCUR , it most probably is due to dependencies not working properly , so just write the eroor function and don't depend on the library
