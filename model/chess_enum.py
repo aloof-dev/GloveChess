@@ -1,7 +1,6 @@
 """
     Define enumeration for the chess pieces and turn.
 """
-
 from enum import Enum
 
 class Piece(Enum):
