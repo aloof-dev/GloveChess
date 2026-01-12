@@ -38,6 +38,7 @@ if __name__ == "__main__":
     init_application()
 
     # Open debug windows
+    
     cv2.namedWindow("Glove window", cv2.WINDOW_NORMAL)
     cv2.resizeWindow("Glove window", 356,200)
     cv2.moveWindow("Glove window", 0, 20)
